@@ -20,21 +20,19 @@ El Ministerio de Salud tuvo una de las partidas más altas del Presupuesto Nacio
 
 ## Representación simple del presupuesto
 
-```text
-Presupuesto nacional 2024
-████████████████████████████████████████████
-
-Ministerio de Salud
-███████████████████
+<pre style="font-family: monospace;">Presupuesto nacional 2024████████████████████████████████████████████Ministerio de Salud███████████████████</pre>
 ¿Cuánto del presupuesto se utilizó?
 Al cierre de 2024, el Ministerio de Salud ejecutó la mayor parte de los recursos asignados.
 En general, las principales áreas del ministerio mostraron
 niveles de ejecución cercanos o superiores al 90%.
 Ejemplo didáctico
+<pre style="font-family: monospace;">
 De cada $100 disponibles:
 
 Utilizado     ███████████████████████████████████████  ≈ $95
-No utilizado  ██                                         ≈ $5
+No utilizado  ██                                      ≈ $5
+</pre>
+``                         ≈ $5
 Esto indica que la mayoría del presupuesto fue efectivamente usado
 durante el año.
 
@@ -48,11 +46,14 @@ El gasto del Ministerio de Salud se concentró principalmente en:
 🏗 Inversión en infraestructura y equipamiento
 
 Distribución visual aproximada
+<pre style="font-family: monospace;">
 Personal de salud          ██████████████████
 Atención hospitalaria      ████████████████
 Transferencias y APS       ████████████
 Bienes y servicios         █████████
 Inversión                  ███
+</pre>
+``
 ¿Qué significa esta información?
 Estos datos permiten comprender cómo se distribuyen los recursos públicos
 en el sector salud.
