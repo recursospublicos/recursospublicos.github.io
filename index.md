@@ -43,7 +43,7 @@ sin juicios ni evaluaciones políticas.
 ## Instituciones públicas disponibles
 
 ### Ministerios
-- salud.md
+- [Ministerio de Salud](salud.md)
 - Ministerio de Salud (ejemplo 2024)
 
 *(Se incorporarán nuevas instituciones de forma progresiva)*
